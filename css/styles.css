@@ -1,0 +1,35 @@
+/* defaults */
+body {
+  font-family: 'Lato Thin', sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+}
+
+.top-hr {
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #7d97ad; /* old IE */
+  background-color: #7d97ad; /* Modern Browsers */
+}
+
+.text-muted {
+  color: #7d97ad;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+  max-width: 100px;
+}
+
+.modal-link {
+  cursor: pointer;
+}
